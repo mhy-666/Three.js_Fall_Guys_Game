@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="head256x256x109">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/threejs/three.js/examples/textures/3d/head256x256x109.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
